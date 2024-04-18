@@ -34,4 +34,4 @@ Bu proje, QR kodları tespit etmek ve belirli bir süre boyunca video kaydetmek 
 
 ## Lisans
 
-Bu proje, [ILGERU-UAV Lisansı]([ILGERU](https://www.linkedin.com/company/ilgeruav/?originalSubdomain=tr)) altında lisanslanmıştır. Daha fazla bilgi için lisans dosyasını inceleyebilirsiniz.
+Bu proje, [ILGERU-UAV Lisansı](https://www.linkedin.com/company/ilgeruav/?originalSubdomain=tr) altında lisanslanmıştır. Daha fazla bilgi için lisans dosyasını inceleyebilirsiniz.
